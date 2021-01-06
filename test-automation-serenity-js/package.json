@@ -43,7 +43,7 @@
     "@serenity-js/serenity-bdd": "^2.0.0",
     "@types/cucumber": "^6.0.0",
     "@types/node": "^12.12.26",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cucumber": "^6.0.5",
     "is-ci": "^2.0.0",
     "npm-failsafe": "^0.4.1",
